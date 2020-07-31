@@ -18,7 +18,7 @@
         "magento/magento2-ee-base": "*"
     },
     "suggest": {
-        "faonni/module-smart-category-configurable": "Smart Category Configurable"
+        "tmp2000/module-smart-category-configurable": "Smart Category Configurable"
     },
     "autoload": {
         "files": [
